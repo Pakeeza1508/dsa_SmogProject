@@ -9,6 +9,8 @@ https://dsasmogproject-5kqfec3rejntwedvsdjw5d.streamlit.app/
 > Hugging Face Model link:
 https://huggingface.co/PakeezaKhalid/clear-fog-cnn-classifier
 
+![Uploading image.png…]()
+
 ## Overview
 
 This project investigates image-based classification of environmental visibility conditions.
