@@ -3,6 +3,15 @@
 > **Semester Machine Learning Project**  
 > An image-classification project built with TensorFlow/Keras that trains a custom CNN on a Kaggle fog/visibility dataset, evaluates the trained network, extracts CNN features for additional boosting and ensemble experiments, and provides a Streamlit interface for local inference.
 
+> Live Demo link:
+https://dsasmogproject-5kqfec3rejntwedvsdjw5d.streamlit.app/
+
+> Hugging Face Model link:
+https://huggingface.co/PakeezaKhalid/clear-fog-cnn-classifier
+
+## Live Demo Output
+![Clear vs Fog Classifier Demo](output.png)
+
 ## Overview
 
 This project investigates image-based classification of environmental visibility conditions.
