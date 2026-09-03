@@ -120,8 +120,9 @@ if uploaded_image is not None:
             "third output to an incorrect class."
         )
 
-st.info(
-    "Limitation: the model is a closed-set environmental classifier. "
-    "Unrelated images can still produce model scores and should not be interpreted "
-    "as meaningful Clear/Fog predictions."
-)
+with st.expander("Model limitations"):
+    st.write(
+        "This classifier is designed for environmental Clear/Fog images. "
+        "Images outside this domain may still receive model scores because "
+        "the model does not include an explicit Unknown class."
+    )
