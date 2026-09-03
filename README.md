@@ -9,7 +9,8 @@ https://dsasmogproject-5kqfec3rejntwedvsdjw5d.streamlit.app/
 > Hugging Face Model link:
 https://huggingface.co/PakeezaKhalid/clear-fog-cnn-classifier
 
-![Uploading image.png…]()
+## Live Demo Output
+![Clear vs Fog Classifier Demo](output.png)
 
 ## Overview
 
